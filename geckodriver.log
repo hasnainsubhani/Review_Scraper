@@ -1,0 +1,670 @@
+1673493298750	geckodriver	INFO	Listening on 127.0.0.1:58558
+1673493301893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilexD71Fl"
+1673493303155	Marionette	INFO	Marionette enabled
+1673493303172	Marionette	INFO	Listening on port 58578
+Read port: 58578
+WebDriver BiDi listening on ws://127.0.0.1:58559
+1673493303507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilexD71Fl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58559/devtools/browser/52c53b03-fb6b-40f8-8569-40ba7e1a7a0c
+1673493347653	Marionette	INFO	Stopped listening on port 58571673493350424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilePKHRVf"
+1673493351087	Marionette	INFO	Marionette enabled
+1673493351093	Marionette	INFO	Listening on port 58766
+Read port: 58766
+WebDriver BiDi listening on ws://127.0.0.1:58742
+1673493351308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilePKHRVf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58742/devtools/browser/511cfc1e-33ba-4008-a333-a42c23f84df7
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673495076299	Marionette	INFO	Stopped listening on port 58766
+e-debugging-port" "61154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDA7VGl"
+1673494969270	Marionette	INFO	Marionette enabled
+1673494969275	Marionette	INFO	Listening on port 61176
+Read port: 61176
+WebDriver BiDi listening on ws://127.0.0.1:61154
+1673494969457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDA7VGl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61154/devtools/browser/0923559c-8ac6-4e02-a570-57def692bc7f
+1673495077407	Marionette	INFO	Stopped listening on port 61176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZeTGDD"
+1673495060760	Marionette	INFO	Marionette enabled
+1673495060765	Marionette	INFO	Listening on port 61397
+Read port: 61397
+WebDriver BiDi listening on ws://127.0.0.1:61380
+1673495060940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZeTGDD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61380/devtools/browser/39a21cb4-5e9c-4e7f-bda9-ed6a836b6f80
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673495396432	Marionette	INFO	Stopped listening on port 61397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXMg5tn"
+1673495101848	Marionette	INFO	Marionette enabled
+1673495101853	Marionette	INFO	Listening on port 61563
+Read port: 61563
+WebDriver BiDi listening on ws://127.0.0.1:61546
+1673495102032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXMg5tn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61546/devtools/browser/66a29604-d2c5-44b4-b63c-2c173e6e9110
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673495390762	Marionette	INFO	Stopped listening on port 61563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilemg8dti"
+1673495332741	Marionette	INFO	Marionette enabled
+1673495332747	Marionette	INFO	Listening on port 61980
+Read port: 61980
+WebDriver BiDi listening on ws://127.0.0.1:61963
+1673495332932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilemg8dti\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61963/devtools/browser/b2a7c29b-90b1-4066-90cb-a7acbac36783
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673495398416	Marionette	INFO	Stopped listening on port 61980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0bWvBz"
+1673495391602	Marionette	INFO	Marionette enabled
+1673495391608	Marionette	INFO	Listening on port 62157
+Read port: 62157
+WebDriver BiDi listening on ws://127.0.0.1:62137
+1673495391816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0bWvBz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62137/devtools/browser/2f21e4d3-ad13-42d2-8e44-26e61027b0d9
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673496411496	Marionette	INFO	Stopped listening on port 62157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileMbuBVI"
+1673495440587	Marionette	INFO	Marionette enabled
+1673495440593	Marionette	INFO	Listening on port 62338
+Read port: 62338
+WebDriver BiDi listening on ws://127.0.0.1:62315
+1673495440778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileMbuBVI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62315/devtools/browser/27e9ff2b-99d1-40a5-b8a3-dee863d9f992
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673496409784	Marionette	INFO	Stopped listening on port 62338
+calhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesQWVz2"
+1673495908043	Marionette	INFO	Marionette enabled
+1673495908050	Marionette	INFO	Listening on port 63111
+Read port: 63111
+WebDriver BiDi listening on ws://127.0.0.1:63094
+1673495908239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesQWVz2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63094/devtools/browser/baf8c420-b48d-47d5-bc3e-75cf5c9bdc22
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673496412792	Marionette	INFO	Stopped listening on port 63111
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0kPT54"
+1673496333321	Marionette	INFO	Marionette enabled
+1673496333326	Marionette	INFO	Listening on port 63870
+Read port: 63870
+WebDriver BiDi listening on ws://127.0.0.1:63848
+1673496333517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0kPT54\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63848/devtools/browser/0502d01b-179f-4cc9-9eef-6150b8c13a13
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673505028732	Marionette	INFO	Stopped listening on port 63870
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBEVC8k"
+1673496429077	Marionette	INFO	Marionette enabled
+1673496429082	Marionette	INFO	Listening on port 64139
+Read port: 64139
+WebDriver BiDi listening on ws://127.0.0.1:64122
+1673496429260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBEVC8k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64122/devtools/browser/7bc5f0ae-e626-4572-bb1d-bf06181edd58
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967303/pagestyle25 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967303/pagestyle25 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673542591275	Marionette	INFO	Stopped listening on port 64139
+d listening on port 57137
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileJTx1f2"
+1673503979668	Marionette	INFO	Marionette enabled
+1673503979673	Marionette	INFO	Listening on port 57348
+Read port: 57348
+WebDriver BiDi listening on ws://127.0.0.1:57331
+1673503979859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileJTx1f2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57331/devtools/browser/8beac83d-74ce-47f8-bb83-c798f8731c62
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673505033125	Marionette	INFO	Stopped listening on port 57348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileI02vVj"
+1673504271268	Marionette	INFO	Marionette enabled
+1673504271273	Marionette	INFO	Listening on port 57872
+Read port: 57872
+WebDriver BiDi listening on ws://127.0.0.1:57855
+1673504271452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileI02vVj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57855/devtools/browser/216ab451-ab0d-4cac-bd90-6f23d9a7b948
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673505035026	Marionette	INFO	Stopped listening on port 57872
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilerGmdFZ"
+1673504912989	Marionette	INFO	Marionette enabled
+1673504912995	Marionette	INFO	Listening on port 58950
+Read port: 58950
+WebDriver BiDi listening on ws://127.0.0.1:58933
+1673504913212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilerGmdFZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58933/devtools/browser/8330d0c9-0481-4eea-94cc-1b5b6002858f
+1673505036148	Marionette	INFO	Stopped listening on port 58950
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileN1dSvk"
+1673505019416	Marionette	INFO	Marionette enabled
+1673505019422	Marionette	INFO	Listening on port 59213
+Read port: 59213
+WebDriver BiDi listening on ws://127.0.0.1:59198
+1673505019644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileN1dSvk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59198/devtools/browser/ce4c7484-e50a-475a-bd05-5f9283d45831
+1673505037807	Marionette	INFO	Stopped listening on port 59213
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673505110809	geckodriver	INFO	Listening on 127.0.0.1:59469
+1673505113912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecRtWlz"
+1673505114605	Marionette	INFO	Marionette enabled
+1673505114612	Marionette	INFO	Listening on port 59487
+Read port: 59487
+WebDriver BiDi listening on ws://127.0.0.1:59470
+1673505114795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecRtWlz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59470/devtools/browser/61c98858-b4cd-475f-bc53-e8d464276c31
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673505644737	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673532503632	Marionette	INFO	Stopped listening on port 59487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilefyVkm4"
+1673532368469	Marionette	INFO	Marionette enabled
+1673532368488	Marionette	INFO	Listening on port 55725
+Read port: 55725
+WebDriver BiDi listening on ws://127.0.0.1:55657
+1673532368801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilefyVkm4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55657/devtools/browser/f4f87c5d-4f6d-49d6-b262-200056655056
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673537219352	Marionette	INFO	Stopped listening on port 55725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileLDLgd0"
+1673532503503	Marionette	INFO	Marionette enabled
+1673532503513	Marionette	INFO	Listening on port 56093
+Read port: 56093
+WebDriver BiDi listening on ws://127.0.0.1:56073
+1673532503818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileLDLgd0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56073/devtools/browser/6f7f0fc5-a85a-4e11-9028-c142a7982024
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673537221629	Marionette	INFO	Stopped listening on port 56093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile1fkm4I"
+1673532724764	Marionette	INFO	Marionette enabled
+1673532724770	Marionette	INFO	Listening on port 56912
+Read port: 56912
+WebDriver BiDi listening on ws://127.0.0.1:56894
+1673532724971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile1fkm4I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56894/devtools/browser/2973b628-e8a4-4540-b524-17963fe8081e
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673537223951	Marionette	INFO	Stopped listening on port 56912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673537232130	geckodriver	INFO	Listening on 127.0.0.1:62612
+1673537235270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileD4VcDH"
+1673537236360	Marionette	INFO	Marionette enabled
+1673537236374	Marionette	INFO	Listening on port 62631
+Read port: 62631
+WebDriver BiDi listening on ws://127.0.0.1:62613
+1673537236687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileD4VcDH\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673537242845	Marionette	INFO	Stopped listening on port 62631
+1673537242857	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673537269571	geckodriver	INFO	Listening on 127.0.0.1:62674
+1673537272687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileGPaapw"
+1673537273092	Marionette	INFO	Marionette enabled
+1673537273098	Marionette	INFO	Listening on port 62692
+Read port: 62692
+WebDriver BiDi listening on ws://127.0.0.1:62675
+1673537273290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileGPaapw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62675/devtools/browser/733c158a-5ec9-45cb-9ac8-dd2782f797b8
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673538126502	Marionette	INFO	Stopped listening on port 62692
+1673538138994	geckodriver	INFO	Listening on 127.0.0.1:63819
+1673538142133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0Jw7qH"
+1673538142803	Marionette	INFO	Marionette enabled
+1673538142808	Marionette	INFO	Listening on port 63836
+Read port: 63836
+WebDriver BiDi listening on ws://127.0.0.1:63820
+1673538143007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile0Jw7qH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63820/devtools/browser/846d5262-95d6-4a20-8e87-f1d1906b9b0d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673540891020	Marionette	INFO	Stopped listening on port 63836
+calhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4qXdUC"
+1673538762124	Marionette	INFO	Marionette enabled
+1673538762130	Marionette	INFO	Listening on port 65002
+Read port: 65002
+WebDriver BiDi listening on ws://127.0.0.1:64984
+1673538762309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4qXdUC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64984/devtools/browser/859a54d6-d8f3-4b64-9069-6ec7505a9cfc
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673540886385	Marionette	INFO	Stopped listening on port 65002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBj9C7H"
+1673540560321	Marionette	INFO	Marionette enabled
+1673540560335	Marionette	INFO	Listening on port 51116
+Read port: 51116
+WebDriver BiDi listening on ws://127.0.0.1:51099
+1673540560631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBj9C7H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51099/devtools/browser/91fd4577-f1e1-4a83-9023-bd33f00d800b
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673540889155	Marionette	INFO	Stopped listening on port 51116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQAJ3iO"
+1673540885521	Marionette	INFO	Marionette enabled
+1673540885532	Marionette	INFO	Listening on port 51662
+Read port: 51662
+WebDriver BiDi listening on ws://127.0.0.1:51643
+1673540885833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQAJ3iO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51643/devtools/browser/ae05ec6c-6d0b-4627-882e-b881454e836f
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673541402048	Marionette	INFO	Stopped listening on port 51662
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileh61itH"
+1673541098734	Marionette	INFO	Marionette enabled
+1673541098739	Marionette	INFO	Listening on port 52070
+Read port: 52070
+WebDriver BiDi listening on ws://127.0.0.1:52054
+1673541098912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileh61itH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52054/devtools/browser/07d818b4-8fa2-4303-9fa1-d317ab797529
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673541400033	Marionette	INFO	Stopped listening on port 52070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiledOgs2U"
+1673541171411	Marionette	INFO	Marionette enabled
+1673541171416	Marionette	INFO	Listening on port 52269
+Read port: 52269
+WebDriver BiDi listening on ws://127.0.0.1:52252
+1673541171627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiledOgs2U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52252/devtools/browser/705b6d7d-ab91-4ea9-933e-2ee9ad9e3d6b
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673541399014	Marionette	INFO	Stopped listening on port 52269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileoF3dvE"
+1673541344672	Marionette	INFO	Marionette enabled
+1673541344677	Marionette	INFO	Listening on port 52593
+Read port: 52593
+WebDriver BiDi listening on ws://127.0.0.1:52576
+1673541344870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileoF3dvE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52576/devtools/browser/3e2f94ae-460c-48bc-a0ff-1e42e9449b1a
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673541403631	Marionette	INFO	Stopped listening on port 52593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673541823986	geckodriver	INFO	Listening on 127.0.0.1:53256
+1673541827115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiledbVqGe"
+1673541827713	Marionette	INFO	Marionette enabled
+1673541827719	Marionette	INFO	Listening on port 53273
+Read port: 53273
+WebDriver BiDi listening on ws://127.0.0.1:53257
+1673541827922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiledbVqGe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53257/devtools/browser/2ee7bbb4-e5a8-4c08-98c2-e68685fc3dbc
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673542095197	Marionette	INFO	Stopped listening on port 53273
+e-debugging-port" "53684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilejGMuPm"
+1673542092258	Marionette	INFO	Marionette enabled
+1673542092264	Marionette	INFO	Listening on port 53703
+Read port: 53703
+WebDriver BiDi listening on ws://127.0.0.1:53684
+1673542092442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilejGMuPm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53684/devtools/browser/b9f00002-c449-4d12-92d3-a3be7e2b197d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673542503359	Marionette	INFO	Stopped listening on port 53703
+e-debugging-port" "54268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileoJ044t"
+1673542499932	Marionette	INFO	Marionette enabled
+1673542499939	Marionette	INFO	Listening on port 54307
+Read port: 54307
+WebDriver BiDi listening on ws://127.0.0.1:54268
+1673542500156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileoJ044t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54268/devtools/browser/786281b9-c1fa-4998-8be1-4d3759fc411c
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673542936222	Marionette	INFO	Stopped listening on port 54307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQzJGEB"
+1673542604092	Marionette	INFO	Marionette enabled
+1673542604097	Marionette	INFO	Listening on port 54526
+Read port: 54526
+WebDriver BiDi listening on ws://127.0.0.1:54510
+1673542604279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQzJGEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54510/devtools/browser/b027ee22-5cb1-4dad-8a88-c5de4705d910
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673542934585	Marionette	INFO	Stopped listening on port 54526
+e-debugging-port" "54708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileCiD4HB"
+1673542674700	Marionette	INFO	Marionette enabled
+1673542674705	Marionette	INFO	Listening on port 54724
+Read port: 54724
+WebDriver BiDi listening on ws://127.0.0.1:54708
+1673542674901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileCiD4HB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54708/devtools/browser/6426ce6d-5002-4508-8e51-4e92fbfa61c6
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673542932584	Marionette	INFO	Stopped listening on port 54724
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebJDJlR"
+1673542926299	Marionette	INFO	Marionette enabled
+1673542926305	Marionette	INFO	Listening on port 55198
+Read port: 55198
+WebDriver BiDi listening on ws://127.0.0.1:55181
+1673542926481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebJDJlR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55181/devtools/browser/1360b2b0-5d20-4536-a49b-bc6b7d9c6b22
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55469
+1673543067039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileuRerPW"
+1673543067446	Marionette	INFO	Marionette enabled
+1673543067451	Marionette	INFO	Listening on port 55487
+Read port: 55487
+WebDriver BiDi listening on ws://127.0.0.1:55470
+1673543067626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileuRerPW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55470/devtools/browser/a64dbad8-3cd6-4eca-81e3-7d8f1d2eda65
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673544068727	Marionette	INFO	Stopped listening on port 55487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDhDCkL"
+1673543366502	Marionette	INFO	Marionette enabled
+1673543366508	Marionette	INFO	Listening on port 55943
+Read port: 55943
+WebDriver BiDi listening on ws://127.0.0.1:55927
+1673543366685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDhDCkL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55927/devtools/browser/f1794d40-4e84-44ac-af9f-4031f4949a10
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673543631683	geckodriver	INFO	Listening on 127.0.0.1:56362
+1673543634817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileB6jtUw"
+1673543635493	Marionette	INFO	Marionette enabled
+1673543635499	Marionette	INFO	Listening on port 56379
+Read port: 56379
+WebDriver BiDi listening on ws://127.0.0.1:56363
+1673543635690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileB6jtUw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56363/devtools/browser/4799a8aa-ab7c-4634-81c5-19b5299e62c7
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673544068675	Marionette	INFO	Stopped listening on port 56379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileC1ZJls"
+1673543850763	Marionette	INFO	Marionette enabled
+1673543850768	Marionette	INFO	Listening on port 56740
+Read port: 56740
+WebDriver BiDi listening on ws://127.0.0.1:56724
+1673543850946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileC1ZJls\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56724/devtools/browser/1189cf7e-32f4-4666-8009-79365c72583c
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673544068682	Marionette	INFO	Stopped listening on port 56740
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3660, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673578258586	geckodriver	INFO	Listening on 127.0.0.1:52528
+1673578261746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileq2jed6"
+1673578262941	Marionette	INFO	Marionette enabled
+1673578262956	Marionette	INFO	Listening on port 52545
+Read port: 52545
+WebDriver BiDi listening on ws://127.0.0.1:52529
+1673578263284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileq2jed6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52529/devtools/browser/430797fc-10d8-43ce-91a5-ff07d23f9867
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673579277640	Marionette	INFO	Stopped listening on port 52545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecVXRrS"
+1673578353118	Marionette	INFO	Marionette enabled
+1673578353126	Marionette	INFO	Listening on port 52757
+Read port: 52757
+WebDriver BiDi listening on ws://127.0.0.1:52740
+1673578353307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecVXRrS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52740/devtools/browser/9e32fe67-8849-42ca-b3f9-5e7dcdc24855
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673579278607	Marionette	INFO	Stopped listening on port 52757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeZiBiL"
+1673578630643	Marionette	INFO	Marionette enabled
+1673578630648	Marionette	INFO	Listening on port 53170
+Read port: 53170
+WebDriver BiDi listening on ws://127.0.0.1:53153
+1673578630843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeZiBiL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53153/devtools/browser/3bf8c05e-69a2-4a99-963d-832a8ce0a127
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579280447	Marionette	INFO	Stopped listening on port 53170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileGISU7o"
+1673578727443	Marionette	INFO	Marionette enabled
+1673578727448	Marionette	INFO	Listening on port 53401
+Read port: 53401
+WebDriver BiDi listening on ws://127.0.0.1:53378
+1673578727628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileGISU7o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53378/devtools/browser/8d409822-aaa2-425f-b156-460fe3d7ea54
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673579282642	Marionette	INFO	Stopped listening on port 53401
+e-debugging-port" "53736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileA9FbrX"
+1673578907426	Marionette	INFO	Marionette enabled
+1673578907431	Marionette	INFO	Listening on port 53754
+Read port: 53754
+WebDriver BiDi listening on ws://127.0.0.1:53736
+1673578907604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileA9FbrX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53736/devtools/browser/e3080485-84c4-47b4-81d0-434ad181e09d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579283720	Marionette	INFO	Stopped listening on port 53754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileIAyTHO"
+1673578982746	Marionette	INFO	Marionette enabled
+1673578982756	Marionette	INFO	Listening on port 53945
+Read port: 53945
+WebDriver BiDi listening on ws://127.0.0.1:53928
+1673578982947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileIAyTHO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53928/devtools/browser/70a00904-98d0-41d7-ab99-cb40d65f4948
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579285110	Marionette	INFO	Stopped listening on port 53945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecoEUIW"
+1673579043805	Marionette	INFO	Marionette enabled
+1673579043810	Marionette	INFO	Listening on port 54126
+Read port: 54126
+WebDriver BiDi listening on ws://127.0.0.1:54110
+1673579044029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilecoEUIW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54110/devtools/browser/dac4d3dc-1e9d-48f0-adda-c5ba6165f72f
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579286933	Marionette	INFO	Stopped listening on port 54126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilemMoNzS"
+1673579124530	Marionette	INFO	Marionette enabled
+1673579124535	Marionette	INFO	Listening on port 54330
+Read port: 54330
+WebDriver BiDi listening on ws://127.0.0.1:54313
+1673579124722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilemMoNzS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54313/devtools/browser/7018f129-a948-4dbf-9ef0-1bd2f27e0dab
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579288123	Marionette	INFO	Stopped listening on port 54330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZIVSYY"
+1673579165700	Marionette	INFO	Marionette enabled
+1673579165705	Marionette	INFO	Listening on port 54493
+Read port: 54493
+WebDriver BiDi listening on ws://127.0.0.1:54473
+1673579165903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZIVSYY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54473/devtools/browser/2770b1ba-b1b6-49c5-b51f-0eff4efda9fc
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579290049	Marionette	INFO	Stopped listening on port 54493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilet3rQsV"
+1673579211447	Marionette	INFO	Marionette enabled
+1673579211452	Marionette	INFO	Listening on port 54659
+Read port: 54659
+WebDriver BiDi listening on ws://127.0.0.1:54642
+1673579211642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilet3rQsV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54642/devtools/browser/f3f914a2-0911-43e9-9159-08f7e63c49fa
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579291237	Marionette	INFO	Stopped listening on port 54659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXe4kvU"
+1673579248901	Marionette	INFO	Marionette enabled
+1673579248906	Marionette	INFO	Listening on port 54817
+Read port: 54817
+WebDriver BiDi listening on ws://127.0.0.1:54801
+1673579249079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXe4kvU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54801/devtools/browser/cd0162da-8a59-410b-b5d6-d621d3217a0d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579377868	Marionette	INFO	Stopped listening on port 54817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileN7TkW5"
+1673579309200	Marionette	INFO	Marionette enabled
+1673579309205	Marionette	INFO	Listening on port 55022
+Read port: 55022
+WebDriver BiDi listening on ws://127.0.0.1:55004
+1673579309387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileN7TkW5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55004/devtools/browser/a40d7d07-c1bd-48a6-8d22-f3067a6d851f
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673579379594	Marionette	INFO	Stopped listening on port 55022
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileKcUbHP"
+1673579375692	Marionette	INFO	Marionette enabled
+1673579375697	Marionette	INFO	Listening on port 55216
+Read port: 55216
+WebDriver BiDi listening on ws://127.0.0.1:55201
+1673579375868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileKcUbHP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55201/devtools/browser/0487d2cf-f933-4d1d-ba0a-43cc84e52b0b
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-01-13T03:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-13T03:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-13T03:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-13T03:11:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1673579484027	Marionette	INFO	Stopped listening on port 55216
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673579775213	geckodriver	INFO	Listening on 127.0.0.1:55963
+1673579778293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileiSLMla"
+1673579778650	Marionette	INFO	Marionette enabled
+1673579778656	Marionette	INFO	Listening on port 55981
+Read port: 55981
+WebDriver BiDi listening on ws://127.0.0.1:55964
+1673579778828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileiSLMla\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55964/devtools/browser/b09e0233-acca-490f-a0d8-a949818e90b1
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967320/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673580817979	Marionette	INFO	Stopped listening on port 55981
+e-debugging-port" "57544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileyvxAJG"
+1673580727234	Marionette	INFO	Marionette enabled
+1673580727239	Marionette	INFO	Listening on port 57561
+Read port: 57561
+WebDriver BiDi listening on ws://127.0.0.1:57544
+1673580727438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileyvxAJG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57544/devtools/browser/b009cac6-43bb-4e72-af46-228af7551016
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57762
+1673580829551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilenO6FW8"
+1673580829910	Marionette	INFO	Marionette enabled
+1673580829916	Marionette	INFO	Listening on port 57780
+Read port: 57780
+WebDriver BiDi listening on ws://127.0.0.1:57763
+1673580830090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilenO6FW8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57763/devtools/browser/0a46f812-3a42-42a2-ac21-dd5562f71221
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/app.chunk.69955e79.js, line 1: TypeError: e is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58236
+1673581110325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileg0pFjk"
+1673581110725	Marionette	INFO	Marionette enabled
+1673581110731	Marionette	INFO	Listening on port 58253
+Read port: 58253
+WebDriver BiDi listening on ws://127.0.0.1:58237
+1673581110926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileg0pFjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58237/devtools/browser/b8f60f06-adc2-4f0c-af52-9546cf1671f4
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58481
+1673581221893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile5DEYkP"
+1673581222574	Marionette	INFO	Marionette enabled
+1673581222581	Marionette	INFO	Listening on port 58502
+Read port: 58502
+WebDriver BiDi listening on ws://127.0.0.1:58482
+1673581222788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile5DEYkP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58482/devtools/browser/bbec4911-6e6d-4008-9871-b845b2f0439a
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58717
