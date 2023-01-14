@@ -76,20 +76,71 @@ def GetRatings(phone_url,phone_title):
 
 def GetReviews(phone_url,phone_title):
     phone_reviews = list()
+    page_count = 0
+    review_pages = 1
+    
+    url = phone_url
 
-    #for i in range(0,len(phone_url)):
-    url = phone_url[0]
-    title = phone_title[0]
+    title = phone_title
     driver.get(f"{url}")
     time.sleep(3)
     allreview_obj = driver.find_elements(By.CSS_SELECTOR,"#container div div._2c7YLP.UtUXW0._6t1WkM._3HqJxg div._1YokD2._2GoDe3 div._1YokD2._3Mn1Gg.col-8-12 div._1YokD2._3Mn1Gg div._1AtVbE.col-12-12 div.col.JOpGWq a")
-    allreview_url=list(map(lambda a: a.get_attribute('href'),list(allreview_obj)))[0].split('aid=')[0] + "aid=overall"
+    all_review_url=list(map(lambda a: a.get_attribute('href'),list(allreview_obj)))[0].split('aid=')[0] + "aid=overall"
 
-    print(allreview_url)
     
-    driver.get(f"{allreview_url}")
+    driver.get(f"{all_review_url}")
     time.sleep(3)
 
+    review_pages = int(driver.find_element(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1AtVbE.col-12-12 div div._2MImiq._1Qnn1K").text.split(' ')[-1].split('\n')[0])
+
+    for i in range(1,review_pages+1):
+        if page_count > 0:
+            allreview_url = f"{all_review_url}&page={i}"
+            driver.get(f"{allreview_url}")
+            time.sleep(3)
+            print(allreview_url)
+
+        page_count = page_count+1
+
+        Review_obj = list(driver.find_elements(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1AtVbE.col-12-12 div._27M-vq div.col div.col._2wzgFH.K0kLPL div.row div._3LWZlK._1BLPMq"))
+        
+        Review_Star = list()
+        for item in Review_obj:
+            Review_Star.append(item.text)
+
+        ReviewText_obj = list(driver.find_elements(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1AtVbE.col-12-12 div._27M-vq div.col div.col._2wzgFH.K0kLPL div.row p._2-N8zT"))
+        
+
+        Review_Text = list()
+        for item in ReviewText_obj:
+            Review_Text.append(item.text)
+
+
+        Review_like_dislike_obj = list(driver.find_elements(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1AtVbE.col-12-12 div._27M-vq div.col div.col._2wzgFH.K0kLPL div.row._3n8db9 div._1e9_Zu div.row div._27aTsS div._1LmwT9"))
+
+        review_dec_obj = list(driver.find_elements(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1AtVbE.col-12-12 div._27M-vq div.col div.col._2wzgFH.K0kLPL div.row div.t-ZTKy"))
+        
+        Review_Desc = list()
+        for item in review_dec_obj:
+            Review_Desc.append(item.text)
+
+        
+        
+        
+        for i in range(0,len(Review_Star)):
+            review={
+                'star':Review_Star[i],
+                'review_text':Review_Text[i],
+                'review_description':Review_Desc[i],
+                'likes':Review_like_dislike_obj[i].text,
+                'dislikes':Review_like_dislike_obj[i+1].text
+            }
+
+            phone_reviews.append(review)
+        #['Page', '1', 'of', '5\n1\n2\n3\n4\n5\nNEXT']
+        #print(allreview_url)
+
+    return phone_reviews
     
     '''
     overall_url = driver.find_element(By.CSS_SELECTOR,"#container div div._2tsNFb div._6t1WkM._3HqJxg div._1YokD2._2GoDe3.col-12-12 div._1YokD2._3Mn1Gg.col-9-12 div._1YokD2._3Mn1Gg.col-12-12 div._1AtVbE.col-12-12 div._33iqLu div a._203_Tp").get_attribute("href")
@@ -102,4 +153,5 @@ def GetReviews(phone_url,phone_title):
     
 
 if __name__ == "__main__":
-    GetReviews(phone_url,phone_title)
+    #GetReviews(phone_url[0],phone_title[0])
+    print(GetReviews(phone_url[0],phone_title[0]))
